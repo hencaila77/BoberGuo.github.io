@@ -1,0 +1,43 @@
+body {
+    margin-left: 100px; margin-right: 100px; margin-top: 50px; margin-bottom: 100px; background-color: white; color: black; 
+}
+
+h1 {
+    color: blue;font-size: 40px; text-align: center;
+}
+
+p {
+    background-color: white; color: black; line-height: 25px; text-align: justify;
+}
+
+#Bold-size-black {
+    font-size: 20px; color: black;
+}
+
+.Title1 {
+    color:dodgerblue;font-size: 25px;line-height: 20px;
+}
+
+.Title2 {
+    color:black;font-size: 20px;
+}
+
+.Table-limegreen {
+    background-color: limegreen; text-align: center; 
+}
+
+.Table-dodgerblue {
+    background-color: dodgerblue; text-align: center; 
+}
+
+.Table-orange {
+    background-color: orange; text-align: center; 
+}
+
+.Table-lightsalmon {
+    background-color: lightsalmon; text-align: center; 
+}
+
+.Table-red {
+    background-color: red; text-align: center; 
+}
